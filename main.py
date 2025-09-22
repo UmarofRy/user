@@ -69,7 +69,23 @@ RESPONSES = {
     r"(?i).*manmi? | mami?.*": "Haha da san ukam .!. 😂",
     r"(?i).*mem.*": "Haha, memlar juda kulgili 😂📸",
     r"(?i).*jonm.*": "dnx gey bla 😂📸",
-    r"(?i).*qs | qsb tur.*": "qstrama ezz🗿💀"
+    r"(?i).*Ezoza|ezow.*": "babr bochkasande🦁💀",
+    r"(?i).*Bibisora|bibisora.*": "bibisi🐸💀",
+    r"(?i).*Mirjalol|mrjalol.*": "mirjii🐯💀",
+    r"(?i).*sunnat|sunat.*": "allemi🕌💀",
+    r"(?i).*Abdulaziz|laylo sanmi.*": "lamaaa🦙💀",
+    r"(?i).*Dilshod|dlshhod.*": "dilshodjgar🎩💀",
+    r"(?i).*ismoil|ismoil.*": "pidr👹💀",
+    r"(?i).*hadiw|hadicha.*": "aesthetic xomudjooon💃🗿 ||5baxo shablonga||",
+    r"(?i).*Abdulaziz|abdlaziz.*": "lamaaa🦙💀",
+    r"(?i).*umraov|umarof.*": "mani bossim boshligim boladi umarof🎻🎯",
+    r"(?i).*Mohirjon|moxir.*": "koti kotta qoy😼💀",
+    r"(?i).*munisa|munis.*": "argentinali rizzayeva💃💀",
+    r"(?i).*Nodira|nodra.*": "aa qodir dr dr dr matasiklku u🫀💀",
+    r"(?i).*samir|Samir.*": "axaxaxa makaron kalla🍝💀",
+    r"(?i).*Akbar|akbar.*": "arooo qite qite bomj vodka🍸💀",
+    r"(?i).*soli|Soliha.*": "dilshodni kal rapunseli👸💀"
+    
 
 }
 
