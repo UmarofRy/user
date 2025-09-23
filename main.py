@@ -91,7 +91,7 @@ RESPONSES = {
 
 # 🚫 Offensive keyword patterns (add more as needed)
 OFFENSIVE_PATTERNS = [
-    r"\b(sex|porn|jinsiy|amorat|badword1|sh*t|f\*ck)\b|dabba|dnx|wtf|skaman|skama|yba|🦒|📮|📬|🖕|hentai|qoto|tasho|yban|abl|Abl|nx|soska|pashol|wth|seks|am|bruh|u bla|gandon|gey|jala|jalab|wttttffff|xD|ble|blaa|bla|qutoq|xuy|xy|tutaq",  # Customize with your own
+    r"\b(sex|porn|jinsiy|amorat|badword1|sh*t|f\*ck)\b|dabba|dnx|wtf|skaman|skama|yba|🦒|📮|📬|🖕|hentai|qoto|tasho|yban|abl|Abl|nx|soska|pashol|wth|seks|am|bruh|u bla|e|eee|ee|x||xx|xxxxx|h|xxx|gandon|gey|jala|jalab|wttttffff|xD|ble|blaa|bla|qutoq|xuy|xy|tutaq",  # Customize with your own
 ]
 
 # 🌸 Aesthetic reply formatter
